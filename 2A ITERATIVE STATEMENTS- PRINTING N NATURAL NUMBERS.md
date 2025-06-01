@@ -29,7 +29,8 @@ print(i)
 ```
 ### OUTPUT
 ```
-![image](https://github.com/user-attachments/assets/1fd8cb51-4a7b-4560-b3eb-d50c0a319903)
+![image](https://github.com/user-attachments/assets/9b2c23e2-68ed-4158-a858-a2c65bcb58b9)
+
 
 ```
 ### RESULT
