@@ -22,7 +22,13 @@ To write a Python program to compute the power of a given number using an approp
 ### PROGRAM
 
 ```
+y=4
+z=pow(x,y)
+print(z)
 ```
 ### OUTPUT
+![image](https://github.com/user-attachments/assets/2a45ca3a-f16a-4661-8447-4866c39cf6f9)
+
 
 ### RESULT
+Thus the Python program to compute the power of a number using the built-in pow() function was executed successfully and the output was verified.
