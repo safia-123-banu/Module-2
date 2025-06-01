@@ -20,18 +20,19 @@ To create a Python program for printing `n` natural numbers using a `for` loop.
 
 ### 🧾 Program
 
-```python
-#Reg.NO
-#Name
-#Write your Code here
-
+```
+a=int(input())
+print("Natural Numbers are :")
+for i in range(1,a+1):
+print(i)
 ```
 ### OUTPUT
 ```
+![image](https://github.com/user-attachments/assets/75666dd7-6bb0-4610-ad5e-ce9613778876)
 
 ```
 ### RESULT
 ```
-
+Thus the Python program to print n natural numbers using a for loop was executed successfully and the output was verified.
 ```
 
