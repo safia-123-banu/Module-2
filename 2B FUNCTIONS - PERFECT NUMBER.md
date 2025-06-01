@@ -22,11 +22,23 @@ To write a Python program to check if a number is a Perfect number using the con
 
 ### PROGRAM
 ```
-#Reg.No:
-#Name:
-#Add your Code Here
+def perfect_num(num):
+
+sume=0   <br>
+for i in range(1,num):   <br>
+    if (num%i==0):   <br>
+        sume=sume+i  <br>
+if(sume==num):  <br>
+    print("The number is a Perfect number!")   <br>
+else:  <br>
+    print("The number is not a Perfect number!")  <br>
+num=int(input())
+perfect_num(num)
 
 ```
 ### OUTPUT
+![image](https://github.com/user-attachments/assets/6d7dc47b-4273-4de1-9a50-9413a47d0a75)
+
 
 ### RESULT
+Thus the Python program to check whether a number is a Perfect Number using functions was executed successfully and the output was verified.
